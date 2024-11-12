@@ -1,6 +1,6 @@
 ![badge-labs](https://user-images.githubusercontent.com/327285/230928932-7c75f8ed-e57b-41db-9fb7-a292a13a1e58.svg)
 
-```
+
 # FINOS LLM Exploration
 
 **Exploring the Potential of Large Language Models (LLMs) in Financial Services**
@@ -52,7 +52,7 @@ We encourage financial institutions, technology providers, and researchers to pa
 * **Slack channel:** [Link to Slack channel]
 
 **Join the FINOS LLM Exploration Initiative and help shape the future of AI in financial services!**
-```
+
 
 ## Roadmap
 
