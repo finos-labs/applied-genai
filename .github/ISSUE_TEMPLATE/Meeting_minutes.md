@@ -1,18 +1,18 @@
 ---
-name: "\U0001F91D AI Readiness Meeting Agenda"
+name: "\U0001F91D LLM Exploration Project"
 about: To track AI Readiness meeting agenda
-title: DD MMM YYYY - AI Readiness Meeting Agenda
+title: DD MMM YYYY - LLM Exploration Project
 labels: meeting
-assignees: ColinEberhardt
+assignees: pjcrosbie
 ---
 
 ## Date
 YYYYMMDD - time
 
 ## Zoom details
-https://zoom.us/j/92957783050
-Meeting ID: 929 5778 3050
-Passcode: 020122
+https://zoom.us/j/93805835465
+Meeting ID: 938 0583 5465
+Passcode: 24143
 
 
 ## Meeting notices
