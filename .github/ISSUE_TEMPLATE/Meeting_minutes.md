@@ -1,7 +1,7 @@
 ---
 name: "\U0001F91D LLM Exploration Project"
 about: To track LLM Exploration Project meeting agenda
-title: DD MMM YYYY - LLM Exploration Project
+title: YYYY-MM-DD - LLM Exploration Project
 labels: meeting
 assignees: pjcrosbie
 ---
