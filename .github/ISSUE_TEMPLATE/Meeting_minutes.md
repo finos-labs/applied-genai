@@ -1,6 +1,6 @@
 ---
 name: "\U0001F91D LLM Exploration Project"
-about: To track AI Readiness meeting agenda
+about: To track LLM Exploration Project meeting agenda
 title: DD MMM YYYY - LLM Exploration Project
 labels: meeting
 assignees: pjcrosbie
