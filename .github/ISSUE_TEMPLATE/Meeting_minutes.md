@@ -26,3 +26,7 @@ Passcode: 24143
 
 ## Agenda and minutes
 
+- Convene & roll call (5mins)
+- Display FINOS Antitrust Policy summary slide
+- Review Meeting Notices (see above)
+- 
