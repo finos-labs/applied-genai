@@ -12,7 +12,7 @@ YYYYMMDD - time
 ## Zoom details
 https://zoom.us/j/93805835465
 Meeting ID: 938 0583 5465
-Passcode: 24143
+Passcode: 724143
 
 
 ## Meeting notices
