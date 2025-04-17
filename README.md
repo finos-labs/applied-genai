@@ -59,7 +59,7 @@ The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.c
 | Name              | GitHub Handle  | Organization |
 | ------------------ | -------------- | ------------- |
 | Peter Crosbie (Chair)     | @pjcrosbie    | Provectus     |
-| Yanglet Liu       | @YangletLiu   | AI4Finance    |
+| Yanglet Liu       | @YangletLiu   | SecureFinAI Lab at Columbia    |
 | Luca Borella (AI Strategic Initiative PM)     | @lucaborella89 | FINOS         |
 | Karl Moll         | @karlmoll     | FINOS         |
 
