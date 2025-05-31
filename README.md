@@ -1,28 +1,28 @@
 ![badge-labs](https://user-images.githubusercontent.com/327285/230928932-7c75f8ed-e57b-41db-9fb7-a292a13a1e58.svg)
 
-# Applied Gen AI
+# Applied GenAI
 
-**Exploring the Potential of Generative AI (Gen AI) in Financial Services**
+**Exploring the Potential of Generative AI (GenAI) in Financial Services**
 
-This repository is the home of the Applied Gen AI initiative, a collaborative project focused on identifying and developing innovative use cases for Gen AI in the financial services industry, while addressing the challenges of governance, security, and compliance.
+This repository is the home of the Applied GenAI initiative, a collaborative project focused on identifying and developing innovative use cases for GenAI in the financial services industry, while addressing the challenges of governance, security, and compliance.
 
-The Applied AI Initiative is acting as a "proto-SIG" (Special Interest Group), with the goal of becoming an official FINOS SIG. We run our meetings as SIGs, and the goal is to foster the development of cross-industry collaborative code initiatives focused on non-competitive AI/LLM use cases, which can be contributed as full FINOS Projects.
+The Applied GenAI Initiative is acting as a "proto-SIG" (Special Interest Group), with the goal of becoming an official FINOS SIG. We run our meetings as SIGs, and the goal is to foster the development of cross-industry collaborative code initiatives focused on non-competitive AI/LLM use cases, which can be contributed as full FINOS Projects.
 
 ## Goals
 
-*   **Identify valuable Gen AI use cases:** Explore how Gen AI can be applied to various tasks in finance, such as risk management, customer service, compliance, and investment analysis.
-*   **Develop open-source tools and models:** Contribute to the development of open-source LLMs, tools, and frameworks that can be used by the financial services community.
-*   **Promote responsible AI:** Address ethical considerations, bias mitigation, and explainability in LLM development and deployment.
+*   **Identify valuable GenAI use cases:** Explore how GenAI can be applied to various tasks in finance, such as risk management, customer service, compliance, and investment analysis.
+*   **Develop open-source tools and models:** Contribute to the development of open-source models, tools, and frameworks that can be used by the financial services community.
+*   **Promote responsible AI:** Address ethical considerations, bias mitigation, and explainability in model development and deployment.
 *   **Foster collaboration:** Encourage collaboration between financial institutions, technology providers, and researchers to accelerate LLM adoption and innovation.
 
 ## Key Activities
 
-*   **Use Case Exploration:** Identify and prioritize promising use cases for Gen AI in finance. This includes:
+*   **Use Case Exploration:** Identify and prioritize promising use cases for GenAI in finance. This includes:
     *   Financial document analysis and understanding
     *   Regulatory compliance
     *   Risk management
     *   Customer service and engagement
-*   **Prototype Development:** Develop prototypes and proof-of-concepts to demonstrate the feasibility and value of Gen AI applications.
+*   **Prototype Development:** Develop prototypes and proof-of-concepts to demonstrate the feasibility and value of GenAI applications.
 *   **Open Source Contributions:** Contribute to existing open-source Gen AI projects or create new open-source tools and models.
 *   **Community Building:** Organize workshops, hackathons, and other events to foster collaboration and knowledge sharing.
 *   **Research and Development:** Conduct research on model capabilities, limitations, and best practices for deployment in finance.
@@ -81,7 +81,7 @@ We encourage financial institutions, technology providers, and researchers to pa
 
 ## Contact
 
-*   **Mailing list:** [https://lists.finos.org/g/applied-gen-ai]
+*   **Mailing list:** [https://lists.finos.org/g/applied-genai]
 *   [help@finos.org]
 
 **Join the FINOS LLM Exploration Initiative and help shape the future of AI in financial services!**
