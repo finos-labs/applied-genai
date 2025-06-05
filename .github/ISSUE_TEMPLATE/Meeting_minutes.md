@@ -1,7 +1,7 @@
 ---
-name: "\U0001F91D LLM Exploration Project"
-about: To track LLM Exploration Project meeting agenda
-title: YYYY-MM-DD - LLM Exploration Project
+name: "\U0001F91D Applied GenAI"
+about: To track Applied GenAI Project meeting agenda
+title: YYYY-MM-DD - Applied GenAI
 labels: meeting
 assignees: pjcrosbie
 ---
