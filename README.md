@@ -66,7 +66,7 @@ The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.c
 
 ## Getting Involved
 
-We encourage financial institutions, technology providers, and researchers to participate in the LLM Exploration Initiative. Here's how you can get involved:
+We encourage financial institutions, technology providers, and researchers to participate in the Applied GenAI Initiative. Here's how you can get involved:
 
 *   **Join the FINOS AI Readiness Special Interest Group (SIG):** [Link to SIG page](https://www.finos.org/ai-readiness)
 *   **Contribute to discussions and provide feedback:** Share your ideas, use cases, and challenges on this GitHub Repo as Issues or Discussions, the FINOS mailing list or [FINOS Community Slack](https://finos-lf.slack.com/messages/finos-community/).
