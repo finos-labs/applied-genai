@@ -110,7 +110,7 @@ We encourage financial institutions, technology providers, and researchers to pa
 *   **Mailing list:** [https://lists.finos.org/g/applied-genai]
 *   [help@finos.org]
 
-**Join the FINOS LLM Exploration Initiative and help shape the future of AI in financial services!**
+**Join the FINOS Applied GenAI Initiative and help shape the future of AI in financial services!**
 
 ## Roadmap
 
