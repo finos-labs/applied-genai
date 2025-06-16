@@ -26,8 +26,9 @@ The Applied GenAI Initiative is acting as a "proto-SIG" (Special Interest Group)
 *   **Open Source Contributions:** Contribute to existing open-source Gen AI projects or create new open-source tools and models.
 *   **Community Building:** Organize workshops, hackathons, and other events to foster collaboration and knowledge sharing.
 *   **Research and Development:** Conduct research on model capabilities, limitations, and best practices for deployment in finance.
+*   **"pied-à-terre"** for AI initiatives within FINOS Labs. See below.
 
-## Open Financial LLM Leaderboard (OFLL)
+### Open Financial LLM Leaderboard (OFLL)
 
 The OFLL project ([link to OFLL repo](https://github.com/finos-labs/Open-Financial-LLMs-Leaderboard/)) provides a specialized evaluation framework tailored specifically for the financial sector. It focuses on tasks that matter most to finance professionals, such as:
 
@@ -43,7 +44,7 @@ OFLL employs a zero-shot evaluation method, testing models on unseen financial t
 *   Robust evaluation metrics (Accuracy, F1 Score, ROUGE Score, MCC)
 *   Real-world financial relevance
 
-## Common Domain Model (CDM) / EMIR-specific RAG
+### Common Domain Model (CDM) / EMIR-specific RAG
 
 The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.com/finos-labs/emir-specific-rag)) addresses the challenges of maintaining and expanding the DRR system, which generates reports based on existing regulations (e.g., EMIR). This initiative leverages AI to reduce maintenance costs and improve scalability across different jurisdictions and regulations.
 
@@ -54,7 +55,7 @@ The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.c
 *   Utilizes the Common Domain Model (CDM) for data standardization.
 *   Fine-tunes FinGPT models for analyzing EMIR regulatory data.
 
-## Hackathon and TechSprint Projects and Prototypes
+### Hackathon and TechSprint Projects and Prototypes
 
 1) https://github.com/finos-labs/dtcch-2025-trade-header-unicorns
 2) https://github.com/finos-labs/dtcch-2025-xypher
