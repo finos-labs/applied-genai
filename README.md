@@ -54,6 +54,32 @@ The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.c
 *   Utilizes the Common Domain Model (CDM) for data standardization.
 *   Fine-tunes FinGPT models for analyzing EMIR regulatory data.
 
+## Hackathon and TechSprint Projects and Prototypes
+
+1) https://github.com/finos-labs/dtcch-2025-trade-header-unicorns
+2) https://github.com/finos-labs/dtcch-2025-xypher
+3) https://github.com/finos-labs/dtcch-2025-broadridge-aws
+4) https://github.com/finos-labs/dtcch-2025-db
+5) https://github.com/finos-labs/dtcch-2025-predicta
+6) https://github.com/finos-labs/dtcch-2025-bbva
+7) https://github.com/finos-labs/dtcch-2025-cypher-third-eye
+8) https://github.com/finos-labs/dtcch-2025-bnp-paribas-team
+9) https://github.com/finos-labs/dtcch-2025-lseg-post-trade
+10) https://github.com/finos-labs/dtcch-2025-tech-geniuses
+11) https://github.com/finos-labs/dtcch-2025-team-cibc
+12) https://github.com/finos-labs/dtcch-2025-gradient
+13) https://github.com/finos-labs/dtcch-2025-quality-and-compliance-masters
+14) https://github.com/finos-labs/dtcch-2025-coforge-ai-whisperers
+15) https://github.com/finos-labs/dtcch-2025-que-de-jiu
+16) https://github.com/finos-labs/dtcch-2025-accenture-team
+17) https://github.com/finos-labs/dtcch-2025-dlt-lsm
+18) https://github.com/finos-labs/learnaix-h-2025
+19) https://github.com/finos-labs/dtcch-2025-ml-team
+20) https://github.com/finos-labs/dtcch-2025-blue-devils
+21) https://github.com/finos-labs/dtcch-2025-archie
+22) https://github.com/finos-labs/dtcch-2025-abn-clearing-chicago
+
+
 ## Maintainers
 
 | Name              | GitHub Handle  | Organization |
