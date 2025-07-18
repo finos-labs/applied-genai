@@ -28,6 +28,8 @@ The Applied GenAI Initiative is acting as a "proto-SIG" (Special Interest Group)
 *   **Research and Development:** Conduct research on model capabilities, limitations, and best practices for deployment in finance.
 *   **"pied-à-terre"** for AI initiatives within FINOS Labs. See below.
 
+## Projects Supported
+
 ### Open Financial LLM Leaderboard (OFLL)
 
 The OFLL project ([link to OFLL repo](https://github.com/finos-labs/Open-Financial-LLMs-Leaderboard/)) provides a specialized evaluation framework tailored specifically for the financial sector. It focuses on tasks that matter most to finance professionals, such as:
