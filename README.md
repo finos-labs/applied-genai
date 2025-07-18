@@ -85,7 +85,8 @@ The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.c
 
 | Name              | GitHub Handle  | Organization |
 | ------------------ | -------------- | ------------- |
-| Peter Crosbie (Chair)     | @pjcrosbie    | Provectus     |
+| Peter Crosbie (Co-Chair)     | @pjcrosbie    | Provectus     |
+| Ganesh Harke (Co-Chair)     | @harkeganesh    | Citi     |
 | Yanglet Liu       | @YangletLiu   | SecureFinAI Lab at Columbia    |
 | Luca Borella (AI Strategic Initiative PM)     | @lucaborella89 | FINOS         |
 | Karl Moll         | @karlmoll     | FINOS         |
