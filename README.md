@@ -144,7 +144,7 @@ We encourage financial institutions, technology providers, and researchers to pa
 *   **Join the FINOS AI Readiness Special Interest Group (SIG):** [Link to SIG page](https://www.finos.org/ai-readiness)
 *   **Contribute to discussions and provide feedback:** Share your ideas, use cases, and challenges on this GitHub Repo as Issues or Discussions, the FINOS mailing list or [FINOS Community Slack](https://finos-lf.slack.com/messages/finos-community/).
 *   **Participate in workshops and events:** Attend workshops and hackathons to collaborate with other members of the community.
-*   **Contribute to open-source projects:** Contribute code, documentation, or other resources to FINOS LLM projects.
+*   **Contribute to open-source projects:** Contribute code, documentation, or other resources to FINOS projects.
 *   **Share your research and insights:** Publish your research findings, best practices, and lessons learned.
 
 ## Resources
@@ -159,9 +159,12 @@ We encourage financial institutions, technology providers, and researchers to pa
 
 **Join the FINOS Applied GenAI Initiative and help shape the future of AI in financial services!**
 
-## Roadmap
+## Contribution Roadmap
 
-Coming soon!
+Q4 2025: Open Financial LLM Leaderboard (OFLL) to become part of "Evaluationa and Benchmarking Suite" project (currently in formation)
+Q1 2026: TBA
+Q2 2026: TBA
+H2 2026: TBA
 
 
 ## License
