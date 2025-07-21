@@ -121,7 +121,7 @@ The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.c
 18) https://github.com/finos-labs/dtcc-i-h-2025-optimal-minds
 19) https://github.com/finos-labs/dtcc-i-h-2025-ctrl-alt-geeks
 20) https://github.com/finos-labs/dtcc-i-h-2025-trustkernel
-21) https://github.com/finos-labs/dtcc-i-h-2025-finaireadiness ---> UI for the FINOS AI Governance Framework !
+21) https://github.com/finos-labs/dtcc-i-h-2025-finaireadiness ---> [UI for the FINOS AI Governance Framework](https://ai-governance-assessment-web.vercel.app/#) !
 22) https://github.com/finos-labs/dtcc-i-h-2025-team-safenest
 23) https://github.com/finos-labs/dtcc-i-h-2025-just-a-byte
 24) https://github.com/finos-labs/dtcc-i-h-2025-fin-phenoms
