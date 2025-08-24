@@ -70,9 +70,13 @@ The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.c
 
 ### Hackathon and TechSprint Projects and Prototypes
 
-#### TraderX TechSprint Summer 2024
+#### TraderX TechSprint 
 
 1) https://github.com/finos-labs/Smoothstack-Banking-App-Traderx-Integration
+
+#### Structured Finance Hackathon 
+
+1) https://github.com/finos-labs/CreditGoose-Finos
 
 #### DTCC Industry Hackathon Feb 2025
 
