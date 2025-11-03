@@ -70,74 +70,7 @@ The EMIR-specific RAG project ([link to EMIR-specific RAG repo](https://github.c
 
 ### Hackathon and TechSprint Projects and Prototypes
 
-#### TraderX TechSprint 
-
-1) https://github.com/finos-labs/Smoothstack-Banking-App-Traderx-Integration
-
-#### Structured Finance Hackathon 
-
-1) https://github.com/finos-labs/CreditGoose-Finos
-
-#### DTCC Industry Hackathon Feb 2025
-
-1) https://github.com/finos-labs/dtcch-2025-trade-header-unicorns
-2) https://github.com/finos-labs/dtcch-2025-xypher
-3) https://github.com/finos-labs/dtcch-2025-broadridge-aws
-4) https://github.com/finos-labs/dtcch-2025-db
-5) https://github.com/finos-labs/dtcch-2025-predicta
-6) https://github.com/finos-labs/dtcch-2025-bbva
-7) https://github.com/finos-labs/dtcch-2025-cypher-third-eye
-8) https://github.com/finos-labs/dtcch-2025-bnp-paribas-team
-9) https://github.com/finos-labs/dtcch-2025-lseg-post-trade
-10) https://github.com/finos-labs/dtcch-2025-tech-geniuses
-11) https://github.com/finos-labs/dtcch-2025-team-cibc
-12) https://github.com/finos-labs/dtcch-2025-gradient
-13) https://github.com/finos-labs/dtcch-2025-quality-and-compliance-masters
-14) https://github.com/finos-labs/dtcch-2025-coforge-ai-whisperers
-15) https://github.com/finos-labs/dtcch-2025-que-de-jiu
-16) https://github.com/finos-labs/dtcch-2025-accenture-team
-17) https://github.com/finos-labs/dtcch-2025-dlt-lsm
-18) https://github.com/finos-labs/dtcch-2025-ml-team
-19) https://github.com/finos-labs/dtcch-2025-blue-devils
-20) https://github.com/finos-labs/dtcch-2025-archie
-21) https://github.com/finos-labs/dtcch-2025-abn-clearing-chicago
-22) https://github.com/finos-labs/dtcch-2025-OpenAML
-
-#### DTCC India Hackathon June 2025
-
-1) https://github.com/finos-labs/dtcc-i-h-2025-aura
-2) https://github.com/finos-labs/dtcc-i-h-2025-db-tech-titans
-3) https://github.com/finos-labs/dtcc-i-h-2025-quantive
-4) https://github.com/finos-labs/dtcc-i-h-2025-error-404
-5) https://github.com/finos-labs/dtcc-i-h-2025-ai-sentimental
-6) https://github.com/finos-labs/dtcc-i-h-2025-kl-neuro
-7) https://github.com/finos-labs/dtcc-i-h-2025-thunderbolts
-8) https://github.com/finos-labs/dtcc-i-h-2025-prism
-9) https://github.com/finos-labs/dtcc-i-h-2025-drishtikon
-10) https://github.com/finos-labs/dtcc-i-h-2025-complichange
-11) https://github.com/finos-labs/dtcc-i-h-2025-technical-wizards
-12) https://github.com/finos-labs/dtcc-i-h-2025-morgan-stanley-technology
-13) https://github.com/finos-labs/dtcc-i-h-2025-null-pointerz
-14) https://github.com/finos-labs/dtcc-i-h-2025-citihackers
-15) https://github.com/finos-labs/dtcc-i-h-2025-phoenix
-16) https://github.com/finos-labs/dtcc-i-h-2025-autokaarargal
-17) https://github.com/finos-labs/dtcc-i-h-2025-insight-nexus
-18) https://github.com/finos-labs/dtcc-i-h-2025-optimal-minds
-19) https://github.com/finos-labs/dtcc-i-h-2025-ctrl-alt-geeks
-20) https://github.com/finos-labs/dtcc-i-h-2025-trustkernel
-21) https://github.com/finos-labs/dtcc-i-h-2025-finaireadiness ---> [UI for the FINOS AI Governance Framework](https://ai-governance-assessment-web.vercel.app/#) !
-22) https://github.com/finos-labs/dtcc-i-h-2025-team-safenest
-23) https://github.com/finos-labs/dtcc-i-h-2025-just-a-byte
-24) https://github.com/finos-labs/dtcc-i-h-2025-fin-phenoms
-25) https://github.com/finos-labs/dtcc-i-h-2025-chai
-26) https://github.com/finos-labs/dtcc-i-h-2025-finsight
-27) https://github.com/finos-labs/dtcc-i-h-2025-neural-ninja
-28) https://github.com/finos-labs/dtcc-i-h-2025-chokers
-29) https://github.com/finos-labs/dtcc-i-h-2025-disruptive-minds
-30) https://github.com/finos-labs/dtcc-i-h-2025-team-fusion
-31) https://github.com/finos-labs/dtcc-i-h-2025-rethink
-32) https://github.com/finos-labs/dtcc-i-h-2025-invictus
-33) https://github.com/finos-labs/dtcc-i-h-2025-pragnya
+FINOS organizes hackathons, techsprints, and collaborative coding events to rapidly prototype GenAI solutions and foster cross-industry innovation. These intensive events bring together practitioners from leading financial institutions, technology providers, and academic institutions. [View all hackathon projects and community events](./docs/COMMUNITY_EVENTS.md)
 
 
 
