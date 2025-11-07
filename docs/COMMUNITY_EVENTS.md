@@ -60,7 +60,7 @@ Leveraging AI and ML technologies to address critical challenges in structured f
 
 **Technologies Used:** Python, LLaMA, GPT, RAG, LangChain, CDM
 
-## Projects Summary
+### Projects Summary
 
 | Project Name | Organization | Functional Area | Description |
 |--------------|--------------|-----------------|-------------|
@@ -90,7 +90,7 @@ Leveraging AI and ML technologies to address critical challenges in structured f
 ---
 
 
-### DTCC India Hackathon 2025
+## DTCC India Hackathon 2025
 
 **Focus Areas:**
 - AI governance frameworks and tooling
@@ -104,7 +104,7 @@ Leveraging AI and ML technologies to address critical challenges in structured f
 2. **Automated Compliance Monitoring**: Real-time regulatory compliance checking
 3. **Explainable Risk Assessment**: AI systems that explain their decisions
 
-## Projects Summary
+### Projects Summary
 
 | Project Name | Organization/Team | Functional Area | Description |
 |--------------|-------------------|-----------------|-------------|
