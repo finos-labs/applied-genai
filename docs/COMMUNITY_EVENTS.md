@@ -19,13 +19,12 @@ FINOS conducts hackathons to rapidly prototype Generative AI solutions for finan
 - **Integration Hub**: Facilitates cohesive FINOS ecosystem integration
 - **Cloud-Native Architecture**: Distributed microservices design
 
-## 2025 Hackathon Series
 | Project Name | Organization | Functional Area | Description |
 |--------------|--------------|-----------------|-------------|
 | [Secure Sentinel Bank integration with TraderX](https://github.com/finos-labs/Smoothstack-Banking-App-Traderx-Integration) | Smoothstack | Retail Banking & Investment Services | Full-stack retail banking application connecting customer bank accounts with TraderX investment services. Features microservices architecture with **AI-powered investment recommendations**, real-time stock trading, and portfolio management. Users start with 100 shares across 5 companies. |
 ---
 
-### Structured Finance Hackathon
+## Structured Finance Hackathons
 
 **Focus Areas:**
 Leveraging AI and ML technologies to address critical challenges in structured finance, disaster risk modeling, agent workflows, smart transaction routing, and linking fragmented systems.
@@ -39,7 +38,9 @@ Leveraging AI and ML technologies to address critical challenges in structured f
 
 | Project Name | Organization | Functional Area | Description |
 |--------------|--------------|-----------------|-------------|
-| [CreditGoose](https://github.com/finos-labs/CreditGoose-Finos) | Team CreditGoose | Invoice Financing & SME Lending | AI-powered invoice financing platform for SMEs using Goose AI agent, web search, and scoring framework. Reduces costs, increases invoice eligibility, and streamlines financing through Square and ERP tool integrations. Winner announced by Maksim Georgiev Marinov. |
+| [CreditGoose](https://github.com/finos-labs/CreditGoose-Finos) | Team CreditGoose | Invoice Financing & SME Lending | AI-powered invoice financing platform for SMEs using Goose AI agent, web search, and scoring framework. Reduces costs, increases invoice eligibility, and streamlines financing through Square and ERP tool integrations. |
+| [Report Trade Management Platform](https://github.com/finos-labs/regtech_structuredfinancehackaton) | Team TraderHeader | Reg Reporting | The platform uses AI to suggest report updates based on the latest jurisdictional regulations and requirements |
+| [Legal Documents Retrieval and Analysis System](https://github.com/finos-labs/legaltech-structuredfinancehackaton) | Team TraderHeader | Prospectus Abstraction | This project involves building a Retrieval-Augmented Generation (RAG) system to store, process, and analyze legal documents |
 ---
 
 
