@@ -94,16 +94,6 @@ We encourage financial institutions, technology providers, and researchers to pa
 *   **Mailing list:** [https://lists.finos.org/g/applied-genai]
 *   [help@finos.org]
 
-**Join the FINOS Applied GenAI Initiative and help shape the future of AI in financial services!**
-
-## Contribution Roadmap
-
-Q4 2025: Open Financial LLM Leaderboard (OFLL) to become part of "Evaluationa and Benchmarking Suite" project (currently in formation)
-Q1 2026: TBA
-Q2 2026: TBA
-H2 2026: TBA
-
-
 ## License
 
 Copyright 2024 FINOS
