@@ -2,9 +2,13 @@
 
 # Applied GenAI
 
-****"pied-à-terre"** for AI prototypes in FINOS Labs.**
+****"Pied-à-terre"** for promissing prototypes in FINOS Labs.**
 
-The goal of Applied GenAI is to act as an aggregator of all repositories contributed to FINOS Labs through FINOS-supported hackathons. The most promising projects are highlighted and presented during periodic meetings.
+The goals of Applied GenAI are:
+1) to act as an Aggregator of all repositories contributed to FINOS Labs through FINOS-supported hackathons. 
+2) to act as Knowledge Hub by providing a platform for academic and industry papers.
+
+The most promising projects and papers are highlighted and invited to present during periodic meetings.
 
 Applied GenAI is currently operating as a “proto-SIG” (Special Interest Group), with the objective of becoming an official FINOS SIG.
 
@@ -29,7 +33,7 @@ FINOS organizes hackathons, techsprints, and collaborative coding events to rapi
 
 We encourage financial institutions, technology providers, and researchers to participate in the Applied GenAI Initiative. Here's how you can get involved:
 
-*   **Contribute to discussions and provide feedback:** Share your ideas, use cases, and challenges on this GitHub Repo as Issues or Discussions, the FINOS mailing list or [FINOS Community Slack](https://finos-lf.slack.com/messages/finos-community/).
+*   **Contribute to discussions and provide feedback:** Share your ideas, use cases, and challenges on this GitHub Repo as Issues or Discussions, the FINOS mailing list or [FINOS AppliedGenAI Slack](https://finos-lf.slack.com/archives/C073HFN3QVB).
 *   **Participate in workshops and events:** Attend workshops and hackathons to collaborate with other members of the community.
 *   **Share your research and insights:** Publish your research findings, best practices, and lessons learned.
 
