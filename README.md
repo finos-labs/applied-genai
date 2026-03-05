@@ -2,11 +2,12 @@
 
 # Applied GenAI
 
-****"Pied-à-terre"** for promissing prototypes in FINOS Labs.**
+****"Pied-à-terre"** for promising prototypes in FINOS Labs.**
 
 The goals of Applied GenAI are:
-1) to act as an Aggregator of all repositories contributed to FINOS Labs through FINOS-supported hackathons. 
-2) to act as Knowledge Hub by providing a platform for academic and industry papers.
+1) to act as an Aggregator of all repositories contributed to FINOS Labs through FINOS-supported hackathons. [View all hackathon projects and community events](./docs/COMMUNITY_EVENTS.md)
+2) to act as Knowledge Hub by providing a platform for academic and industry papers.  [View all presentations on cutting-edge Generative AI research, academic papers, and industry prototypes](./docs/PRESENTATION.md)
+
 
 The most promising projects and papers are highlighted and invited to present during periodic meetings.
 
@@ -22,11 +23,6 @@ Applied GenAI is currently operating as a “proto-SIG” (Special Interest Grou
 | Yanglet Liu       | @YangletLiu   | SecureFinAI Lab at Columbia    |
 | Luca Borella (AI Strategic Initiative PM)     | @lucaborella89 | FINOS         |
 | Karl Moll         | @karlmoll     | FINOS         |
-
-
-### Hackathon and TechSprint Projects and Prototypes
-
-FINOS organizes hackathons, techsprints, and collaborative coding events to rapidly prototype GenAI solutions and foster cross-industry innovation. These intensive events bring together practitioners from leading financial institutions, technology providers, and academic institutions. [View all hackathon projects and community events](./docs/COMMUNITY_EVENTS.md)
 
 
 ## Getting Involved
